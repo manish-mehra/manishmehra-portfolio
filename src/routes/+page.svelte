@@ -33,6 +33,7 @@
 <svelte:head>
   <link rel="shortcut icon" href="./favicon.ico">
 	<title>Manish Mehra</title>
+  <meta name="description" content="An aspiring software engineer with hands-on experience in frontend technologies">
 </svelte:head>
 
 <main class="min-h-screen h-full w-full bg-[#121212] pb-4">
@@ -72,7 +73,7 @@
                 <p class="text-sm font-normal text-gray-400">LiteWriteNeo is an open-source distraction free writing web app, rewritten in pure JavaScript with TypeScript for enhanced performance and maintainability</p>
               </div>
               <div>
-                <a href="https://github.com/manish-mehra/litewriteneo" class="bg-[#2a2a2abf] border px-4 py-1 rounded-md text-sm font-medium">Github</a>
+                <a href="https://github.com/manish-mehra/litewriteneo" target="_blank" class="bg-[#2a2a2abf] border px-4 py-1 rounded-md text-sm font-medium">Github</a>
               </div>
             </figure>
             <figure class="max-w-2xl w-full p-4 rounded-md bg-[#2a2a2abf] flex flex-col items-start">
