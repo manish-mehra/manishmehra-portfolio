@@ -72,7 +72,7 @@
                 <p class="text-sm font-normal text-gray-400">LiteWriteNeo is an open-source distraction free writing web app, rewritten in pure JavaScript with TypeScript for enhanced performance and maintainability</p>
               </div>
               <div>
-                <a href="#github" class="bg-[#2a2a2abf] border px-4 py-1 rounded-md text-sm font-medium">Github</a>
+                <a href="https://github.com/manish-mehra/litewriteneo" class="bg-[#2a2a2abf] border px-4 py-1 rounded-md text-sm font-medium">Github</a>
               </div>
             </figure>
             <figure class="max-w-2xl w-full p-4 rounded-md bg-[#2a2a2abf] flex flex-col items-start">
@@ -84,7 +84,7 @@
                 <img src="https://user-images.githubusercontent.com/31545725/271251815-66d550b7-a7bf-4c3c-9f57-2802097b133c.png" alt="" class="rounded-md">
               </div>
               <div>
-                <a href="#github" class="bg-[#2a2a2abf] border px-4 py-1 rounded-md text-sm font-medium">Github</a>
+                <a href="https://github.com/manish-mehra/locshare" class="bg-[#2a2a2abf] border px-4 py-1 rounded-md text-sm font-medium">Github</a>
               </div>
             </figure>
             <figure class="max-w-2xl w-full p-4 rounded-md bg-[#2a2a2abf] flex flex-col items-start">
@@ -96,7 +96,7 @@
                 <img src="https://raw.githubusercontent.com/manish-mehra/hindustan-headlines/main/client/public/hindustan-headlines-img.png" alt="hindustan headlines" class="rounded-md"/>
               </div>
               <div>
-                <a href="#github" class="bg-[#2a2a2abf] border px-4 py-1 rounded-md text-sm font-medium">Github</a>
+                <a href="https://github.com/manish-mehra/hindustan-headlines" class="bg-[#2a2a2abf] border px-4 py-1 rounded-md text-sm font-medium">Github</a>
               </div>
             </figure>
         </section>
