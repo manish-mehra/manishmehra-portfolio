@@ -3,7 +3,7 @@
  
  const API_URL = 'https://dev.to/api/articles?username=manishmehra'
 
- let currentTab = 'contact'
+ let currentTab = 'home'
  let loading = false
  let blogs = []
 
@@ -115,7 +115,7 @@
             <div class="mb-5">
               <p class="text-sm font-normal text-gray-400">
                 Published on: {blog?.readable_publish_date}<br/>
-                Author: {blog?.name}<br/>
+                Author: {blog?.user?.name}<br/>
                 Reading Time: {blog?.reading_time_minutes}<br/>
               </p>
             </div>
