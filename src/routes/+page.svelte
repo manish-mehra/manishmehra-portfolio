@@ -50,7 +50,7 @@
     {#if currentTab === 'home'}
       <section class="flex flex-col items-center gap-3 mt-16">
         <div class="pb-2">
-          <img src="/mm-image.jpg" alt="manish mehra's" class="w-40 h-40 ring-4 ring-red-950 rounded-full"/>
+          <img src="/mm-image.jpg" alt="manish mehra's" class="w-40 h-40 rounded-full"/>
         </div>
         <div class="text-center pb-10">
           <h1 class="text-3xl font-bold">Hi!👋🏻</h1>
