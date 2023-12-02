@@ -68,7 +68,11 @@
         {#each PROJECTS as project}
           <figure class="max-w-2xl w-full p-4 rounded-md bg-[#242424] flex flex-col items-start">
             <div class="pb-3">
-              <h3 class="text-xl font-bold">{project.name}</h3>
+              <h3 class="text-xl font-bold">{project.name}
+                {#if project.name === 'LiteWriteNeo'}
+                  <span class="text-lg font-bold text-gray-400"> (#WIP)</span>
+                {/if}
+              </h3>
             </div>
             <div class="mb-5 flex flex-col gap-4 overflow-hidden">
               <p class="text-md font-normal text-gray-400">{project.description}</p>
