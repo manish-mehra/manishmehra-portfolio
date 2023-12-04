@@ -1,38 +1,20 @@
-# create-svelte
+# My Personal [Website](https://www.manishmehra.com/)
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+This repository contains the source code for my personal website, showcasing my portfolio, blog, and more.
 
-## Creating a project
+## Overview
 
-If you're seeing this, you've probably already done this step. Congrats!
+Purpose: To present my projects, thoughts, and journey in software engineering.
+Built With: Svelte, Tailwind CSS.
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+## Features
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+* Portfolio: Explore my projects and accomplishments.
+* Blog: Insights, musings, and experiences shared through blog posts.
 
-## Developing
+**Feel free to explore the website or use this code as a reference for your own project.**
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+## Technologies Used
 
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+* Svelte
+* Tailwind CSS
