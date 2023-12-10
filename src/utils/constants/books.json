@@ -1,0 +1,437 @@
+[
+  {
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "pages": 964,
+    "tags": [
+      "fiction",
+      "classic"
+    ]
+  },  
+  {
+    "title": "Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values (Phaedrus, #1)",
+    "author": "Robert M. Pirsig",
+    "pages": 540,
+    "tags": [
+      "philosophy",
+      "non-fiction"
+    ]
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "pages": 671,
+    "tags": [
+      "fiction",
+      "classic"
+    ]
+  },
+  {
+    "title": "The Sorrows of Young Werther",
+    "author": "Johann Wolfgang von Goethe",
+    "pages": 149,
+    "tags": [
+      "fiction",
+      "classic"
+    ]
+  },
+  {
+    "title": "The Master and Margarita",
+    "author": "Mikhail Bulgakov",
+    "pages": 372,
+    "tags": [
+      "fiction",
+      "classic"
+    ]
+  },
+  {
+    "title": "The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else",
+    "author": "Hernando de  Soto",
+    "pages": 288,
+    "tags": [
+      "economics",
+      "politics",
+      "non-fiction"
+    ]
+  },
+  {
+    "title": "Of Mice and Men",
+    "author": "John Steinbeck",
+    "pages": 107,
+    "tags": [
+      "fiction",
+      "classic"
+    ]
+  },
+  {
+    "title": "The Gulag Archipelago “1956 (Abridged)",
+    "author": "Aleksandr Solzhenitsyn",
+    "pages": 512,
+    "tags": [
+      "history",
+      "politics"
+    ]
+  },
+  {
+    "title": "Beyond Order: 12 More Rules For Life",
+    "author": "Jordan B. Peterson",
+    "pages": 382,
+    "tags": [
+      "psychology",
+      "philosophy",
+      "self-help",
+      "non-fiction"
+    ]
+  },
+  {
+    "title": "12 Rules for Life: An Antidote to Chaos",
+    "author": "Jordan B. Peterson",
+    "pages": 409,
+    "tags": [
+      "psychology",
+      "philosophy",
+      "self-help",
+      "non-fiction"
+    ]
+  },
+  {
+    "title": "The Stranger",
+    "author": "Albert Camus",
+    "pages": 159,
+    "tags": [
+      "fiction",
+      "classic"
+    ]
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "pages": 328,
+    "tags": [
+      "fiction",
+      "classic"
+    ]
+  },
+  {
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "pages": 796,
+    "tags": [
+      "fiction",
+      "classic"
+    ]
+  },
+  {
+    "title": "The Old Man and the Sea",
+    "author": "Ernest Hemingway",
+    "pages": 96,
+    "tags": [
+      "fiction",
+      "classic"
+    ]
+  },
+  {
+    "title": "Notes from Underground",
+    "author": "Fyodor Dostoevsky",
+    "pages": 136,
+    "tags": [
+      "fiction",
+      "classic"
+    ]
+  },
+  {
+    "title": "Man's Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "pages": 165,
+    "tags": [
+      "psychology",
+      "philosophy"
+    ]
+  },
+  {
+    "title": "The Final Empire (Mistborn, #1)",
+    "author": "Brandon Sanderson",
+    "pages": 537,
+    "tags": [
+      "fantasy",
+      "fiction"
+    ]
+  },
+  {
+    "title": "The Wise Man's Fear (The Kingkiller Chronicle, #2)",
+    "author": "Patrick Rothfuss",
+    "pages": 994,
+    "tags": [
+      "fantasy",
+      "fiction"
+    ]
+  },
+  {
+    "title": "The Name of the Wind (The Kingkiller Chronicle, #1)",
+    "author": "Patrick Rothfuss",
+    "pages": 662,
+    "tags": [
+      "fantasy",
+      "fiction"
+    ]
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "pages": 182,
+    "tags": [
+      "fiction",
+      "classic"
+    ]
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",
+    "author": "J.K. Rowling",
+    "pages": 309,
+    "tags": [
+      "fantasy",
+      "fiction"
+    ]
+  },
+  {
+    "title": "The Defining Decade: Why Your Twenties Matterâ€”And How to Make the Most of Them Now",
+    "author": "Meg Jay",
+    "pages": 273,
+    "tags": [
+      "psychology",
+      "self-help",
+      "non-fiction"
+    ]
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "pages": 234,
+    "tags": [
+      "fiction",
+      "classic"
+    ]
+  },
+  {
+    "title": "The Perks of Being a Wallflower",
+    "author": "Stephen Chbosky",
+    "pages": 213,
+    "tags": [
+      "fiction",
+      "classic"
+    ]
+  },
+  {
+    "title": "A Wrinkle in Time (Time Quintet, #1)",
+    "author": "Madeleine L'Engle",
+    "pages": 218,
+    "tags": [
+      "fantasy",
+      "fiction"
+    ]
+  },
+  {
+    "title": "Wired to Create: Unraveling the Mysteries of the Creative Mind",
+    "author": "Scott Barry Kaufman",
+    "pages": 288,
+    "tags": [
+      "psychology",
+      "self-help"
+    ]
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "pages": 180,
+    "tags": [
+      "fiction",
+      "classic"
+    ]
+  },
+  {
+    "title": "Everything Is F*cked: A Book About Hope",
+    "author": "Mark Manson",
+    "pages": 283,
+    "tags": [
+      "psychology",
+      "philosophy",
+      "self-help"
+    ]
+  },
+  {
+    "title": "The Giver (The Giver, #1)",
+    "author": "Lois Lowry",
+    "pages": 208,
+    "tags": [
+      "fiction",
+      "classic"
+    ]
+  },
+  {
+    "title": "The Outsiders",
+    "author": "S.E. Hinton",
+    "pages": 192,
+    "tags": [
+      "fiction",
+      "classic"
+    ]
+  },
+  {
+    "title": "The Fault in Our Stars",
+    "author": "John Green",
+    "pages": 313,
+    "tags": [
+      "fiction",
+      "classic"
+    ]
+  },
+  {
+    "title": "Room",
+    "author": "Emma Donoghue",
+    "pages": 321,
+    "tags": [
+      "fiction",
+      "classic"
+    ]
+  },
+  {
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "pages": 592,
+    "tags": [
+      "fiction",
+      "historical"
+    ]
+  },
+  {
+    "title": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "pages": 283,
+    "tags": [
+      "history",
+      "classic"
+    ]
+  },
+  {
+    "title": "All the Light We Cannot See",
+    "author": "Anthony Doerr",
+    "pages": 531,
+    "tags": [
+      "fiction",
+      "historical"
+    ]
+  },
+  {
+    "title": "The Power of Habit: Why We Do What We Do in Life and Business",
+    "author": "Charles Duhigg",
+    "pages": 375,
+    "tags": [
+      "psychology",
+      "self-help",
+      "non-fiction"
+    ]
+  },
+  {
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "pages": 371,
+    "tags": [
+      "fiction",
+      "historical"
+    ]
+  },
+  {
+    "title": "Steal Like an Artist: 10 Things Nobody Told You About Being Creative",
+    "author": "Austin Kleon",
+    "pages": 160,
+    "tags": [
+      "psychology",
+      "self-help",
+      "non-fiction"
+    ]
+  },
+  {
+    "title": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
+    "author": "Mark Manson",
+    "pages": 212,
+    "tags": [
+      "psychology",
+      "philosophy",
+      "self-help",
+      "non-fiction"
+    ]
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "pages": 512,
+    "tags": [
+      "history",
+      "philosophy",
+      "non-fiction"
+    ]
+  },
+  {
+    "title": "The Shadow of the Wind (The Cemetery of Forgotten Books, #1)",
+    "author": "Carlos Ruiz ZafÃ³n",
+    "pages": 487,
+    "tags": [
+      "fiction",
+      "historical"
+    ]
+  },
+  {
+    "title": "Educated",
+    "author": "Tara Westover",
+    "pages": 352,
+    "tags": [
+      "biography",
+      "memoir",
+      "non-fiction"
+    ]
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "pages": 323,
+    "tags": [
+      "fiction",
+      "classic"
+    ]
+  },
+  {
+    "title": "Into the Wild",
+    "author": "Jon Krakauer",
+    "pages": 203,
+    "tags": [
+      "biography",
+      "memoir"
+    ]
+  },
+  {
+    "title": "Turtles All the Way Down",
+    "author": "John Green",
+    "pages": 290,
+    "tags": [
+      "fiction"
+    ]
+  },
+  {
+    "title": "Looking for Alaska",
+    "author": "John Green",
+    "pages": 221,
+    "tags": [
+      "fiction"
+    ]
+  },
+  {
+    "title": "The War of Art: Winning the Inner Creative Battle",
+    "author": "Steven Pressfield",
+    "pages": 168,
+    "tags": [
+      "psychology",
+      "self-help",
+      "non-fiction"
+    ]
+  }
+ ]
