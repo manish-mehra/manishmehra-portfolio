@@ -26,7 +26,7 @@
 <svelte:head>
     <link rel="shortcut icon" href="/favicon.ico">
     <title>Books - Manish Mehra</title>
-    <meta name="description" content="Explore Manish Mehra's projects in software engineering">
+    <meta name="description" content="Manish's Reading List">
 </svelte:head>
 
 <div class="flex flex-col mt-16">
