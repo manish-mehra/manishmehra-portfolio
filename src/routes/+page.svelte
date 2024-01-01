@@ -43,7 +43,7 @@
   <div class="text-center pb-10">
     <h1 class="text-3xl font-bold">Hi!👋🏻</h1>
     <h1 class="text-3xl font-bold pb-3">I'm Manish Mehra</h1>
-    <p class="text-md text-gray-400 font-medium">An <span class="font-bold">aspiring</span> software engineer with hands-on experience in <span class="underline decoration-wavy decoration-red-900">frontend technologies</span></p>
+    <p class="text-md text-gray-400 font-medium">An <span class="font-bold">aspiring</span> software engineer with hands-on experience in <span class="underline decoration-wavy decoration-blue-900">frontend technologies</span></p>
   </div>
   <div class="flex gap-2">
     <a href = "https://github.com/manish-mehra" class="bg-[#2a2a2abf] px-4 py-1 rounded-md text-sm font-medium" target="_blank">Github</a>
