@@ -1,22 +1,8 @@
 <script>
   import Books from '../../utils/constants/books.json'
 
-  const tags = ['All', "Currently Reading", ...new Set(Books.map(book => book.tags).flat())]
+  const tags = ['All', ...new Set(Books.map(book => book.tags).flat())]
 
-  const currentlyReading = [
-    {
-      title: 'The Count of Monte Cristo',
-      author: 'Alexandre Dumas',
-      pages: 932,
-      tags: ['classics', 'fiction']
-    },
-    {
-      title: 'Thinking Fast and Slow',
-      author: 'Daniel Kahneman',
-      pages: 499,
-      tags: ['psychology', 'non-fiction']
-    }
-  ]
 
   let books = Books
   let currentTag = 'All'
@@ -46,9 +32,8 @@
           currentTag = tag
           if(tag === 'All'){
             books = Books
-          } else if(tag === 'Currently Reading') {
-            books = currentlyReading
-          } else {
+          }
+          else {
             books = Books.filter(book => book.tags.includes(tag))
           }
         }}
@@ -59,7 +44,7 @@
   <section class="mb-5">
    <div class="flex gap-2 items-center justify-end font-medium">
       <p>{books.length} Books</p> |
-      <p>{
+      <p>≈{
       books.reduce((acc, book) => {
         return acc + book.pages
       }, 0)} Pages</p>

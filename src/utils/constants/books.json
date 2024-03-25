@@ -1,8 +1,14 @@
 [
   {
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "pages": 1276,
+    "tags": ["classic", "fiction"]
+  },
+  {
     "title": "Anna Karenina",
     "author": "Leo Tolstoy",
-    "pages": 964,
+    "pages": 864,
     "tags": [
       "fiction",
       "classic"
@@ -38,7 +44,7 @@
   {
     "title": "The Master and Margarita",
     "author": "Mikhail Bulgakov",
-    "pages": 372,
+    "pages": 432,
     "tags": [
       "fiction",
       "classic"
@@ -115,7 +121,7 @@
   {
     "title": "The Brothers Karamazov",
     "author": "Fyodor Dostoevsky",
-    "pages": 796,
+    "pages": 1056,
     "tags": [
       "fiction",
       "classic"
